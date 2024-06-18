@@ -16,7 +16,7 @@ It is designed to be used as a template to enable you to get started quickly dep
 
 Please refer to our [Wiki](https://github.com/Azure/alz-terraform-accelerator/wiki) for detailed features and usage instructions.
 
-<a href="https://aka.ms/caf/ready/accelerator" data-linktype="external"><img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="DTA-Button-ALZ" data-linktype="external"></a>
+<a href="https://bit.ms/caf/ready/azure_landing_zone" data-linktype="external"><img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="DTA-Button-ALZ" data-linktype="external"></a>
 
 <br/>
 
