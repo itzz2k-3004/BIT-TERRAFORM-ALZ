@@ -17,8 +17,6 @@ It is designed to be used as a template to enable you to get started quickly dep
 Please refer to our [Wiki](https://github.com/Azure/alz-terraform-accelerator/wiki) for detailed features and usage instructions.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./docs/wiki/media/MS-Azure_logo_horiz_c-white_rgb.png">
-  <source media="(prefers-color-scheme: light)" srcset="./docs/wiki/media/MS-Azure_logo_horiz_c-gray_rgb.png">
   <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="DTA-Button-ALZ" data-linktype="external">
 </picture>
 
