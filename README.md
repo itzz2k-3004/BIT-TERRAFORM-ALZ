@@ -1,4 +1,4 @@
-# Azure Landing Zones Terraform Accelerator
+# Azure Landing Zones Terraform
 
 [![license](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Azure/alz-terraform-accelerator/badge)](https://scorecard.dev/viewer/?uri=github.com/Azure/alz-terraform-accelerator)
