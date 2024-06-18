@@ -16,7 +16,7 @@ It is designed to be used as a template to enable you to get started quickly dep
 
 Please refer to our [Wiki](https://github.com/Azure/alz-terraform-accelerator/wiki) for detailed features and usage instructions.
 
-<img width="50%" alt="Bitscape Logo" src="https://sacdnprdeus001.blob.core.windows.net/bitscape-logos/Bitscape-Logo-xl.png" style="visibility:visible;max-width:100%;">
+<img width="30%" alt="Bitscape Logo" src="https://sacdnprdeus001.blob.core.windows.net/bitscape-logos/Bitscape-Logo-xl.png" style="visibility:visible;max-width:100%;">
 
 <a href="https://aka.ms/caf/ready/accelerator" data-linktype="external"><img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true" alt="DTA-Button-ALZ" data-linktype="external"></a>
 
